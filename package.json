@@ -1,0 +1,12 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Landing page usin async knowledge learnt at Platzi.com",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
